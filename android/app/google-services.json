@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239149761915",
+    "project_id": "notifications-f64a1",
+    "storage_bucket": "notifications-f64a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239149761915:android:cddd7af256482a8d7469de",
+        "android_client_info": {
+          "package_name": "com.chatty.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5lqyZ9mDzwHeCz2WPy5n8ciRfd91Njt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
